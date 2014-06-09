@@ -1,0 +1,7 @@
+{"appliances":[
+    {"type":"iron", "devices":[{"name":"plancha generica 1500", "potencia":"1500"},
+			       {"name":"plancha generica 2000", "potencia":"2000"}]},
+    {"type":"washing machine", "devices":[{"name":"lavadora generica 3000", "potencia":"3000"},
+			       {"name":"lavadora generica 4000", "potencia":"4000"}]}
+]}
+
