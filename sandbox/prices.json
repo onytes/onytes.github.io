@@ -1,6 +1,6 @@
 {
 	"date": "2014/06/13",
-	"prieces":[
+	"prices":[
 		{"time":"00:00", "euros":0.3, "unit":"kWh"},
 		{"time":"01:00", "euros":0.21, "unit":"kWh"},
 		{"time":"02:00", "euros":0.2, "unit":"kWh"},
