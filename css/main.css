@@ -4,3 +4,40 @@
 .white-text{
     color: #FFF;
 }
+
+
+
+html,body {height:100%;}
+
+.jumbo-one{
+	background: url("../img/bg/madrid01.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+	position: relative;
+}
+
+
+.jumbo-one-container{
+	color: #AAA;
+	background-color: rgba(0,0,0,0.4);
+}
+.jumbo-one-footer{
+	color: #AAA;
+	background-color: #000; 
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;	
+}
+
+.jumbo-two{
+	background-color: #3498db;
+	color: #FFF;	
+}
+
+
+
+/*body {
+      padding-top: 60px;
+      padding-bottom: 40px;
+      }*/
